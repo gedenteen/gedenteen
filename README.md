@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there
 
-<!--
-**gedenteen/gedenteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitry. Here some facts about me:
+- Unity developer
+- Like programming
+- Love One Piece
 
-Here are some ideas to get you started:
+![franky5](https://github.com/gedenteen/gedenteen/assets/47585081/8f30c600-cb98-45d1-94e6-444aa5051578)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gedenteen&theme=dark) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=gedenteen&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
