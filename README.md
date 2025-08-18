@@ -5,7 +5,8 @@ My name is Dmitry. Here some facts about me:
 - Like programming
 - Love One Piece
 
-![franky5](https://github.com/gedenteen/gedenteen/assets/47585081/8f30c600-cb98-45d1-94e6-444aa5051578)
+![ezgif-40f561582f3bec](https://github.com/user-attachments/assets/eb7a8dc4-44fb-4a64-a6ac-2f7fd65e12b0)
+
 
 ## My stats
 
