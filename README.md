@@ -10,6 +10,7 @@ My name is Dmitry. Here some facts about me:
 
 ## My stats
 
+![gedenteen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gedenteen&show_icons=true&theme=dark\&include_all_commits=true\&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gedenteen&theme=dark) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gedenteen&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedenteen&hide=shaderlab,html&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
