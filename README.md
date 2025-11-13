@@ -5,8 +5,9 @@ My name is Dmitry. Here some facts about me:
 - Like programming
 - Love One Piece
 
-![ezgif-40f561582f3bec](https://github.com/user-attachments/assets/eb7a8dc4-44fb-4a64-a6ac-2f7fd65e12b0)
-
+<img src="https://github.com/user-attachments/assets/eb7a8dc4-44fb-4a64-a6ac-2f7fd65e12b0"
+     alt="ezgif-40f561582f3bec"
+     width="500" />
 
 ## My stats
 
